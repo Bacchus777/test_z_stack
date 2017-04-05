@@ -1,0 +1,26 @@
+Z-Stack IAS Sample Applications Examples
+-----------------------------------------------------------------
+This git repo contains example applications that demonstrate how 
+to implement the ZigBee IAS Applications using TI Z-Stack. 
+
+Examples are provided to work over the Z-Stack-3.0 and Z-Stack-1.2.2a releases. 
+
+1. CIE-FD-WD-Z3.0--> Z-Stack 1.2.2a
+2. CIE-FD-WD-ZHA1.2.2a --> Z-Stack 3.0
+
+Please refer to the readme file included within the directories to 
+get instructions on how to run these examples. 
+
+Relevant wiki page:
+http://processors.wiki.ti.com/index.php/Fire_Alarm_System
+
+Version 
+- 1.0 First Release - April 5th 2017
+
+What's New
+- First Release
+
+Bug Fixes
+- First Release
+
+ 
